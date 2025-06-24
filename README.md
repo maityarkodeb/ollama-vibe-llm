@@ -15,3 +15,5 @@
 `npm run dev`
 
 4. Open your browser at http://localhost:5173
+
+![ollamavibe](https://github.com/user-attachments/assets/ab1ce314-7eda-4c85-a416-788a1644070d)
